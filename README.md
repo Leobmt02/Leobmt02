@@ -1,10 +1,10 @@
-### Olá!, meu nome é Leonardo Bandeira Matias. Sou estudante de Engenharia da Computação com uma paixão pelo desenvolvimento de backend. Possuo habilidades sólidas adquiridas por meio de projetos práticos e estudos autônomos, com um grande compromisso com a excelência. Estou animado para contribuir onde quer que esteja!
+### Hello! My name is Leonardo Bandeira Matias. I am a Computer Engineering student with a passion for backend development. I have solid skills acquired through practical projects and self-study, with a strong commitment to excellence. I am excited to contribute wherever I am!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bandeira-matias-b55347268/)
 
 ![Leonardo Matias GitHub stats](https://github-readme-stats.vercel.app/api?username=Leobmt02&show_icons=true&theme=dracula)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use daily
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>

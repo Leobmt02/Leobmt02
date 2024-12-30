@@ -1,4 +1,4 @@
-### Hello! My name is Leonardo Matias. I am a Computer Engineering student with a passion for backend development. I have solid skills acquired through practical projects and self-study, with a strong commitment to excellence. I am excited to contribute wherever I am!
+### "Hello! My name is Leonardo Matias. I am a Computer Engineering student with a strong interest in data analysis and processing. I have solid skills acquired through practical projects and self-study, with a strong commitment to excellence. I am excited to contribute wherever needed!"
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-bandeira-matias-b55347268/)
 
